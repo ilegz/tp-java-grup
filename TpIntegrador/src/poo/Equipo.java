@@ -10,6 +10,7 @@ public class Equipo {
 	
 	//metodo constructor
 	
+	
 	//prueba1
 	
 	public Equipo(String _nombre, String _descripcion){
